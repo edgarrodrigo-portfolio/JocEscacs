@@ -1,23 +1,16 @@
+package src;
 import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 public class JocEscacs {
 
-
-
-/* 
-    **DISCLAIMER**
-    --> metode pathClear()
-    --> metode parsePosition()
-    _____________________________________________________________________
-    |||   AQUESTS DOS METODES HE NECESITAT L'AJUDA                    |||
-    |||   DE LA IA, TENIA LA IDEA PERO NO M'ACABABA DE FUNCIONAR.     |||
     
-
-
-*/
-
+    /*CODI NO A ESTAT REESTRUCTURAT AMB IA, JO HO HE ORGANITZAT, COM A MI M'HA
+    SEMBLAT I COM MÉS CLAR HO HE VIST TENINT EN COMPTE LES NORMES DE CLEAN CODE*/
+    
+    
+    
     public final int boardSize = 8;
     public final char emptyCell = ' ';
 
